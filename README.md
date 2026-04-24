@@ -1,3 +1,1 @@
-# My-first-project.
-Demo file to demonstrate the concept of github.
-Creating first repository.
+This is sample text file created in the folder.
